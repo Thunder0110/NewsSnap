@@ -368,6 +368,6 @@ def run():
             else:
                 st.error("No News found for {}".format(user_topic))
         else:
-            st.warning("Please write Topic Name to Search🔍")
+            st.warning("Please write Topic  to Search🔍")
 
 run()
